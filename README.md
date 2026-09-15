@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Analytics | Power BI
+<img width="7650" height="5929" alt="E-Commerce Project_page-0001" src="https://github.com/user-attachments/assets/0041176b-d1e6-4755-b062-8fa46441cd9d" /># E-Commerce Sales & Customer Analytics | Power BI
 
 ## 📌 Overview
 
@@ -15,7 +15,7 @@ The project transforms transaction data into business-focused KPIs and actionabl
 
 ## 📊 Dashboard Preview
 
-
+<img width="7650" height="5929" alt="E-Commerce Project_page-0001" src="https://github.com/user-attachments/assets/7bdd418d-6683-40b7-859d-5be1ab5b57bc" />
 
 ## 📈 Key KPIs
 
