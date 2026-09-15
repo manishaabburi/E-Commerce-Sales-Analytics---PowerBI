@@ -15,7 +15,7 @@ The project transforms transaction data into business-focused KPIs and actionabl
 
 ## 📊 Dashboard Preview
 
-![Uploading E-Commerce Project_page-0001.jpg…]()
+<img width="7650" height="5929" alt="E-Commerce Project_page-0001" src="https://github.com/user-attachments/assets/1d5d86b7-4eac-4324-a3fb-def0fa34ccbb" />
 
 
 ## 📈 Key KPIs
