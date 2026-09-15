@@ -1,5 +1,5 @@
-<img width="7650" height="5929" alt="E-Commerce Project_page-0001" src="https://github.com/user-attachments/assets/0041176b-d1e6-4755-b062-8fa46441cd9d" /># E-Commerce Sales & Customer Analytics | Power BI
-
+**E-Commerce Sales & Customer Analytics | Power BI
+**
 ## 📌 Overview
 
 An interactive **Power BI dashboard** built to analyze e-commerce sales, customer behavior, product performance, payment methods, and regional trends.
