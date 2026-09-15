@@ -15,7 +15,8 @@ The project transforms transaction data into business-focused KPIs and actionabl
 
 ## 📊 Dashboard Preview
 
-https://github.com/manishaabburi/E-Commerce-Sales-Analytics---PowerBI/blob/main/E-Commerce%20Project_page-0001.jpg
+![Uploading E-Commerce Project_page-0001.jpg…]()
+
 
 ## 📈 Key KPIs
 
