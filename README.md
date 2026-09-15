@@ -1,5 +1,5 @@
-**E-Commerce Sales & Customer Analytics | Power BI
-**
+# E-Commerce Sales & Customer Analytics | Power BI
+
 ## 📌 Overview
 
 An interactive **Power BI dashboard** built to analyze e-commerce sales, customer behavior, product performance, payment methods, and regional trends.
@@ -15,7 +15,7 @@ The project transforms transaction data into business-focused KPIs and actionabl
 
 ## 📊 Dashboard Preview
 
-<img width="7650" height="5929" alt="E-Commerce Project_page-0001" src="https://github.com/user-attachments/assets/7bdd418d-6683-40b7-859d-5be1ab5b57bc" />
+
 
 ## 📈 Key KPIs
 
